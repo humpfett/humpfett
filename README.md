@@ -9,5 +9,5 @@ I'm a Computer Science student. (1/8)
   
   
 <div>
-  ![Snake animation](https://github.com/humpfett/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+     ![Snake animation](https://github.com/humpfett/humpfett/blob/output/github-contribution-grid-snake.svg)
 </div>
